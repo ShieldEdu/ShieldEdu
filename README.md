@@ -1,8 +1,8 @@
 ### Hi there I'm Chris!👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ShieldEdu
-- 🌱 I’m currently learning English Teaching
+- 🔭 I’m currently working on how to build better language courses. 
+- 🌱 I’m currently learning how to teach students more efficiently.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
