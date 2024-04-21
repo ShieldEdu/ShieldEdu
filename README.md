@@ -1,4 +1,4 @@
-### Hi there I'm Crhis!👋
+### Hi there I'm Chris!👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ShieldEdu
